@@ -1,0 +1,12 @@
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Types\bin\Debug\net7.0\Types.deps.json
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Types\bin\Debug\net7.0\Types.dll
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Types\bin\Debug\net7.0\Types.pdb
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Types\obj\Debug\net7.0\Types.csproj.AssemblyReference.cache
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Types\obj\Debug\net7.0\Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Types\obj\Debug\net7.0\Types.AssemblyInfoInputs.cache
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Types\obj\Debug\net7.0\Types.AssemblyInfo.cs
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Types\obj\Debug\net7.0\Types.csproj.CoreCompileInputs.cache
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Types\obj\Debug\net7.0\Types.dll
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Types\obj\Debug\net7.0\refint\Types.dll
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Types\obj\Debug\net7.0\Types.pdb
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Types\obj\Debug\net7.0\ref\Types.dll
