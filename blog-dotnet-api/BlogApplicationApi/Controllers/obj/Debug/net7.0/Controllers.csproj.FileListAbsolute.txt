@@ -10,3 +10,15 @@ C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplication
 C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\refint\Controllers.dll
 C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\Controllers.pdb
 C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\ref\Controllers.dll
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\bin\Debug\net7.0\Controllers.deps.json
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\bin\Debug\net7.0\Controllers.dll
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\bin\Debug\net7.0\Controllers.pdb
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\Controllers.csproj.AssemblyReference.cache
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\Controllers.AssemblyInfoInputs.cache
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\Controllers.AssemblyInfo.cs
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\Controllers.dll
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\refint\Controllers.dll
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\Controllers.pdb
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\ref\Controllers.dll

@@ -1,0 +1,7 @@
+cd .\blog-angular-client
+ng serve
+
+------------------------------------------------------------------------
+
+cd .\blog-dotnet-api
+dotnet run --project .\BlogApplicationApi\WebApi\WebApi.csproj
