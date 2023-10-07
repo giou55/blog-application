@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Interfaces;
+using Microsoft.AspNetCore.Mvc;
+using Types.Models.User;
 
 namespace Controllers
 {
@@ -6,10 +8,18 @@ namespace Controllers
     [Route("api/[controller]")]
     public class UserController : ControllerBase
     {
-        [HttpGet]
-        public ActionResult Get()
+        private readonly IUserService _userService;
+
+        public UserController(IUserService userService)
         {
-            return Ok("This is a get request");
+            _userService = userService;
+        }
+
+        [HttpGet("/users")]
+        public async Task<ActionResult<User[]>> Get()
+        {
+            var users = await _userService.GetUsersAsync();
+            return Ok(users);
         }
     }
 }

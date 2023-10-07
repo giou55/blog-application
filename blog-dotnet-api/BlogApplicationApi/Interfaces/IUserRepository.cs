@@ -1,4 +1,4 @@
-﻿using Types.Models;
+﻿using Types.Models.User;
 
 namespace Interfaces
 {

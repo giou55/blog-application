@@ -22,3 +22,10 @@ C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-ap
 C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\refint\Controllers.dll
 C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\Controllers.pdb
 C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\ref\Controllers.dll
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\bin\Debug\net7.0\Implementation.dll
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\bin\Debug\net7.0\Interfaces.dll
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\bin\Debug\net7.0\Types.dll
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\bin\Debug\net7.0\Implementation.pdb
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\bin\Debug\net7.0\Interfaces.pdb
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\bin\Debug\net7.0\Types.pdb
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\Controllers\obj\Debug\net7.0\Controllers.csproj.CopyComplete
