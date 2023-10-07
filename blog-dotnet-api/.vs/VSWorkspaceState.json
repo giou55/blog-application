@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BlogApplicationApi",
+    "\\BlogApplicationApi\\Controllers",
+    "\\BlogApplicationApi\\Implementation",
+    "\\BlogApplicationApi\\Types",
+    "\\BlogApplicationApi\\WebApi",
+    "\\BlogApplicationApi\\WebApi\\Logs"
   ],
+  "SelectedNode": "\\BlogApplicationApi\\BlogApplicationApi.sln",
   "PreviewInSolutionExplorer": false
 }

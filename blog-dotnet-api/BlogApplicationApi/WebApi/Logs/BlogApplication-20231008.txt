@@ -1,0 +1,295 @@
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+UserService.GetUsersAsync started.
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 213.5149ms - 200
+Received HTTP response headers after 228.2117ms - 200
+End processing HTTP request after 258.0255ms - 200
+End processing HTTP request after 258.2909ms - 200
+UserService.GetUsersAsync finished.
+UserService.GetUsersAsync finished.
+---------------------------------
+---------------------------------
+HTTP "GET" "/users" responded 200 in 446.6404 ms
+HTTP "GET" "/users" responded 200 in 444.6691 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+UserService.GetUsersAsync started.
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 123.173ms - 200
+Received HTTP response headers after 133.5173ms - 200
+End processing HTTP request after 134.9501ms - 200
+End processing HTTP request after 158.2938ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+UserService.GetUsersAsync finished.
+HTTP "GET" "/users" responded 200 in 155.3517 ms
+---------------------------------
+HTTP "GET" "/users" responded 200 in 172.4488 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 560.7936ms - 200
+End processing HTTP request after 614.9614ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 625.1231 ms
+Received HTTP response headers after 130.7138ms - 200
+End processing HTTP request after 147.3126ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 313.5871 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 131.2474ms - 200
+End processing HTTP request after 205.5689ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 210.3536 ms
+Received HTTP response headers after 25.1586ms - 200
+End processing HTTP request after 217.5889ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 234.4645 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 271.9116ms - 200
+End processing HTTP request after 320.5804ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 325.1582 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 32.6236ms - 200
+End processing HTTP request after 37.5248ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 364.1643 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 123.1036ms - 200
+End processing HTTP request after 163.2703ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 411.5186 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 32.5037ms - 200
+End processing HTTP request after 146.3674ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 152.8658 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 103.6856ms - 200
+End processing HTTP request after 176.9212ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 186.9277 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 35.3426ms - 200
+End processing HTTP request after 126.3894ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 131.4117 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 157.3028ms - 200
+End processing HTTP request after 180.4127ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 191.8865 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 35.7228ms - 200
+End processing HTTP request after 39.752ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 45.0898 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 114.694ms - 200
+End processing HTTP request after 223.8036ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 228.4098 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 42.9289ms - 200
+End processing HTTP request after 59.6684ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 71.0135 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 93.4485ms - 200
+End processing HTTP request after 100.6026ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 105.6179 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 168.3038ms - 200
+End processing HTTP request after 177.234ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 204.1720 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 67.6948ms - 200
+End processing HTTP request after 75.6938ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 81.2474 ms
+HTTP "GET" "/users/3" responded 404 in 0.3753 ms
+HTTP "GET" "/users/3" responded 404 in 0.0493 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 139.3433ms - 200
+End processing HTTP request after 143.0124ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 154.5621 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 123.7286ms - 200
+End processing HTTP request after 130.2146ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 141.0501 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 39.1232ms - 200
+End processing HTTP request after 68.8863ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 76.8934 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 25.361ms - 200
+End processing HTTP request after 53.6058ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 105.3642 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 57.4682ms - 200
+End processing HTTP request after 79.2232ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 87.1072 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 27.1152ms - 200
+End processing HTTP request after 67.9719ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 79.0445 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 57.764ms - 200
+End processing HTTP request after 69.6212ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 80.4806 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 31.694ms - 200
+End processing HTTP request after 40.8479ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 56.4382 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 30.2425ms - 200
+End processing HTTP request after 39.1892ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 134.0208 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 31.6309ms - 200
+End processing HTTP request after 57.843ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 64.3643 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 28.9073ms - 200
+End processing HTTP request after 37.4892ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 68.1431 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 29.8871ms - 200
+End processing HTTP request after 62.2616ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 107.7782 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 100.7812ms - 200
+End processing HTTP request after 104.6729ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 136.5219 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 78.0323ms - 200
+End processing HTTP request after 81.8449ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 94.0303 ms
+UserService.GetUsersAsync started.
+Start processing HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Sending HTTP request "GET" "https://jsonplaceholder.typicode.com/users"
+Received HTTP response headers after 52.2791ms - 200
+End processing HTTP request after 59.8556ms - 200
+UserService.GetUsersAsync finished.
+---------------------------------
+HTTP "GET" "/users" responded 200 in 76.0856 ms

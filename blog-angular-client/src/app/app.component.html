@@ -25,10 +25,5 @@
   </div>
 </nav>
 
-<div class="container mt-3">
-  <div *ngFor="let user of users">
-    <h4>{{user.name}}</h4>
-    <h6>{{user.email}}</h6>
-    <hr>
-  </div>
-</div>
+<router-outlet></router-outlet>
+
