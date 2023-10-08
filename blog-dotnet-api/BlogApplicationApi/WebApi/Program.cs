@@ -1,10 +1,24 @@
 using Implementation;
 using Interfaces;
 using Serilog;
+using Types.Models.Settings;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddHttpClient();
+HttpClientSettings settings = new();
+builder.Configuration.GetSection("HttpClientSettings").Bind(settings);
+
+//builder.Services.AddHttpClient();
+
+builder.Services.AddHttpClient(
+    settings.Name, 
+    httpClient =>
+{
+    httpClient.DefaultRequestHeaders.Add("Authorization", "someToken");
+    httpClient.Timeout = TimeSpan.FromSeconds(
+        builder.Configuration.GetValue<uint>("HttpClientSettings:Timeout", 120));
+});
+
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -24,7 +38,6 @@ builder.Services.AddCors(options =>
 
 builder.Host.UseSerilog((context, configuration) => 
     configuration.ReadFrom.Configuration(context.Configuration));
-
 
 var app = builder.Build();
 

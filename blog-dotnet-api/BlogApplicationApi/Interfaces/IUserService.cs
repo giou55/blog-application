@@ -6,5 +6,7 @@ namespace Interfaces
     {
         Task<User[]> GetUsersAsync();
 
+        Task<User> GetUserByIdAsync(int userId);
+
     }
 }

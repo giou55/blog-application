@@ -1,6 +1,10 @@
-<div class="container">
+<div class="container text-center">
   <div *ngIf="user">
     <h3>{{user.name}}</h3>
     <h5>{{user.email}}</h5>
+    <h6>{{user.phone}}</h6>
+  </div>
+
+  <div *ngIf="isLoading" class="spinner-border text-light" role="status">
   </div>
 </div>

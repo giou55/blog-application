@@ -5,9 +5,13 @@ import { AllUsersComponent } from './all-users/all-users.component';
 
 
 const routes: Routes = [
-  { path: 'user/:id', component: UserComponent },
-  { path: 'all-users', component: AllUsersComponent },
-  { path: '',   redirectTo: '/all-users', pathMatch: 'full' }
+  {
+    path: 'all-users', component: AllUsersComponent,
+    children: [
+      {path: 'user/:id', component: UserComponent},
+    ]
+  },
+  { path: '',   redirectTo: 'all-users', pathMatch: 'full' }
 ];
 
 @NgModule({

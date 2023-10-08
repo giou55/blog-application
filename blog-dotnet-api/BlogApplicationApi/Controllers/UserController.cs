@@ -21,5 +21,12 @@ namespace Controllers
             var users = await _userService.GetUsersAsync();
             return Ok(users);
         }
+
+        [HttpGet("/users/{id}")]
+        public async Task<ActionResult<User>> Get([FromRoute] int id)
+        {
+            var user = await _userService.GetUserByIdAsync(id);
+            return Ok(user);
+        }
     }
 }
