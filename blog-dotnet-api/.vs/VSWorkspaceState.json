@@ -8,6 +8,6 @@
     "\\BlogApplicationApi\\WebApi",
     "\\BlogApplicationApi\\WebApi\\Logs"
   ],
-  "SelectedNode": "\\BlogApplicationApi\\BlogApplicationApi.sln",
+  "SelectedNode": "\\BlogApplicationApi\\Implementation\\UserService.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "J3TSMrjiJVWGkU+KYdYO7kbOyl3E//JlB5mePiF1BeEcRAOxHRyIBchqzLDv2EdKlX8Z7E2pJLBJjDVhYix1+A==",
+  "dgSpecHash": "SrU+nrldnMLZ0dG7VmiIE9/VGL6yPevYyIFnhPns6B0YWZhqh3SOBG4I8m6fvEYHpu6QC7oQUK8xDqo12cbwmQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\giorgos.gioumertakis\\Desktop\\myProjects\\blog-application\\blog-dotnet-api\\BlogApplicationApi\\Controllers\\Controllers.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\giorgos.gioumertakis\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\giorgos.gioumertakis\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\giorgos.gioumertakis\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\giorgos.gioumertakis\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "C:\\Users\\giorgos.gioumertakis\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
@@ -52,7 +54,7 @@
     "C:\\Users\\giorgos.gioumertakis\\.nuget\\packages\\microsoft.codeanalysis.common\\2.8.0\\microsoft.codeanalysis.common.2.8.0.nupkg.sha512",
     "C:\\Users\\giorgos.gioumertakis\\.nuget\\packages\\microsoft.codeanalysis.csharp\\2.8.0\\microsoft.codeanalysis.csharp.2.8.0.nupkg.sha512",
     "C:\\Users\\giorgos.gioumertakis\\.nuget\\packages\\microsoft.codeanalysis.razor\\2.2.0\\microsoft.codeanalysis.razor.2.2.0.nupkg.sha512",
-    "C:\\Users\\giorgos.gioumertakis\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\giorgos.gioumertakis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\giorgos.gioumertakis\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.2.0\\microsoft.extensions.caching.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\giorgos.gioumertakis\\.nuget\\packages\\microsoft.extensions.caching.memory\\2.2.0\\microsoft.extensions.caching.memory.2.2.0.nupkg.sha512",
     "C:\\Users\\giorgos.gioumertakis\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

@@ -1,0 +1,74 @@
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+HTTP "GET" "/api/SuperHero" responded 500 in 41.8109 ms
+An unhandled exception has occurred while executing the request.
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+HTTP "GET" "/api/SuperHero" responded 200 in 94.7035 ms
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+Now listening on: "https://localhost:7019"
+Now listening on: "http://localhost:5142"
+Application started. Press Ctrl+C to shut down.
+Hosting environment: "Development"
+Content root path: "C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi"
+HTTP "GET" "/api/SuperHero" responded 200 in 118.9142 ms

@@ -26,11 +26,8 @@ namespace Implementation
 
         public async Task<User[]> GetUsersAsync()
         {
-            //var httpClient = new HttpClient();
-            //httpClient.DefaultRequestHeaders.Add("Authorization", "SomeToken");
-            //httpClient.BaseAddress = new Uri("https://jsonplaceholder.typicode.com");
 
-            using HttpClient client = _httpClientFactory.CreateClient();
+            using HttpClient client = _httpClientFactory.CreateClient("blog-client");
 
             var apiSettings = new ApiSettings();
 

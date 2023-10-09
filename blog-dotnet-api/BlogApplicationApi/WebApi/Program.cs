@@ -2,6 +2,7 @@ using Implementation;
 using Interfaces;
 using Serilog;
 using Types.Models.Settings;
+using AutoMapper;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,6 +23,9 @@ builder.Services.AddHttpClient(
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddAutoMapper(typeof(Program).Assembly);
+builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
 builder.Services.AddTransient<IUserService, UserService>();
 

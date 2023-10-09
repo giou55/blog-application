@@ -135,3 +135,5 @@ C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-ap
 C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
 C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
 C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\giorgos.gioumertakis\Desktop\myProjects\blog-application\blog-dotnet-api\BlogApplicationApi\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
